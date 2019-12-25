@@ -40,7 +40,7 @@
             </div>
         </div>
 
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/N-l1xtCMnpw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="720" height="415" src="https://www.youtube-nocookie.com/embed/N-l1xtCMnpw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
         <br>
 
@@ -92,10 +92,12 @@ export default {
 }
 
 iframe {
-    margin: 0 0 0 55%;
-    top: 46%;
     position: absolute;
     z-index: 0;
+    top: 63%;
+    left: 71%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
 .container {
     color: #2b2b2b;
