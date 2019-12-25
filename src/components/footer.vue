@@ -18,7 +18,7 @@
             
         </div>
         <div class="footercontent"> 
-            This independent TEDx event is operated under license from <a href="https://www.ted.com" target="_blank" rel="noreferrer">TED</a>.
+            This independent TEDx event is operated <br>under license from <a href="https://www.ted.com" target="_blank" rel="noreferrer">TED</a>.
         </div>
         <br>
         <hr style="border-color: gray;">
