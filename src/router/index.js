@@ -4,6 +4,7 @@ import HomePage from '@/components/HomePage'
 import About from '@/components/About'
 import OurTeam from '@/components/team'
 import OurSponsor from '@/components/sponsor'
+import privpolicy from '@/components/privacy.vue'
 
 Vue.use(Router)
 
@@ -28,6 +29,11 @@ export default new Router({
       path: '/oursponsors',
       name: 'OurSponsors',
       component: OurSponsor
+    },
+    {
+      path: '/privpolicy',
+      name: 'PrivPolicy',
+      component: privpolicy
     },
   ]
 })

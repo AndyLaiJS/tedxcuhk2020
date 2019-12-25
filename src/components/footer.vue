@@ -13,7 +13,7 @@
                 <a target="_blank" href="https://www.youtube.com/user/TEDxTalks" rel="noreferrer"><img alt="Instagram icon" src="../assets/YouTubeIcon.png" style="height: 25px; padding-bottom: 2px;"></a> 
 
                 <br>
-                <span style="padding: 10px 10px 0 10px;"><router-link to="">Privacy Policy</router-link></span> | <span style="padding: 10px 0 0 10px;"><a target="_blank" href="mailto:tedxcuhkteam@gmail.com">Mail</a></span> <!-- Don't judge me again -->
+                <span style="padding: 10px 10px 0 10px;"><router-link to="PrivPolicy">Privacy Policy</router-link></span> | <span style="padding: 10px 0 0 10px;"><a target="_blank" href="mailto:tedxcuhkteam@gmail.com">Mail</a></span> <!-- Don't judge me again -->
             </div>
             
         </div>
