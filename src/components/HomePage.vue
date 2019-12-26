@@ -1,9 +1,11 @@
 <template>
   <div class="container">
-    <span id="ComingSoon">
-      TEDxCUHK 2020 is coming soon
-    </span>
-    <img style="width: 100%;" src="../assets/TEDxComingSoon.jpg">
+    <div class="content">
+      <span id="ComingSoon">
+        TEDxCUHK 2020 is coming soon
+      </span>
+      <img style="width: 100%;" src="../assets/TEDxComingSoon.jpg">
+    </div>
     <webfooter/>
   </div>
   
