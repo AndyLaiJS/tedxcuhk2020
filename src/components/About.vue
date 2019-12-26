@@ -8,12 +8,14 @@
             <div class="Para">
                 <p>TEDxCUHK is an annual conference organized by the students of 
                     The Chinese University of Hong Kong (CUHK) who are passionate about
-                    spreading remarkable ideas to people of the community.
+                    spreading remarkable ideas to people of the community. We believe that 
+                    the right idea has the power to change the world.
                 </p>
 
-                <p>Keeping true to the spirit of 'Ideas worth sharing', each year we invite renowned speakers
-                    from various backgrounds to come and share their stories and ideas, aiming to inspire
-                    fellow schoolmates, members of CUHK and the community to better our future and our world.
+                <p>Keeping true to the spirit of 'Ideas worth sharing', we invite renowned speakers each year
+                    from various backgrounds to come and share their exceptional stories and ideas to the students
+                    of CUHK and the community so those remarkable ideas can help contribute towards our shared future, 
+                    positively influencing lives and helping transform our global community.
                 </p>
 
                 <p>TEDxCUHK 2020 would not have been possible without the help of <router-link to="OurTeam">Our Team</router-link> and from 
