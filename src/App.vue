@@ -17,7 +17,7 @@
       <div class="menu">
 
         <a href="">Home</a>
-        <router-link to="Attend">Attend</router-link>
+        <router-link to="Event">Event</router-link>
         <router-link to="Speakers">Speakers</router-link>
         <router-link to="About">About</router-link>
       

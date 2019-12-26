@@ -5,6 +5,7 @@ import About from '@/components/About'
 import OurTeam from '@/components/team'
 import OurSponsor from '@/components/sponsor'
 import privpolicy from '@/components/privacy.vue'
+import Event from '@/components/Event.vue'
 
 Vue.use(Router)
 
@@ -14,6 +15,11 @@ export default new Router({
       path: '/',
       name: 'HomePage',
       component: HomePage
+    },
+    {
+      path: '/event',
+      name: 'Event',
+      component: Event
     },
     {
       path: '/about',
